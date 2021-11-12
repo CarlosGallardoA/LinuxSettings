@@ -1,0 +1,36 @@
+sudo /opt/lampp/lampp start
+
+permisos para php
+
+sudo chmod 777 -R  /opt/lampp/htdocs
+
+comands:
+
+ls: listar
+ll: listar, ocultos y mas info
+cp nombrearchivo direccion --> pociar archivo a algun lugar
+cd -a directorio otro directorio --> copiar directorios
+rm ubicaion --> eliminar archivo 
+mv mover archivos o directorios
+rsync -av --> copiar directorios 
+touch nombredelarchivo --> crear un archivo
+> nombre del archivo --> forma pro de touch
+du -sh directorio --> mostar peso del archivo
+stat nombre del archivo --> informacion del archivo
+zip -r nombredelarchivo directorio --> comprimir un directorio
+unzip nombredelzip --> descomprimir un zip
+zipinfo nombredelzip --> nos mostrara el contenido de un zip sin descomprimir
+tree -> arbol de directorios
+find directoriodondebuscar comoquieresbuscar tiempo --> buscar archivos ejem(find . -mtime +5)
+cal --> calendario
+date -->fecha actual
+bc --> calculadora
+ps fax --> miestra procesos
+cat --> si no tienes vim
+grep --> filtras contenido de un arhivo
+| --> para poder concatenar comando
+df --> espacio de disco en servidor
+top -> procesos en curso del servidor
+
+
+

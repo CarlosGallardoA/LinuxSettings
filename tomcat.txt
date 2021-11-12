@@ -1,0 +1,20 @@
+wget https://downloads.apache.org/tomcat/tomcat-10/v10.0.10/bin/apache-tomcat-10.0.10.tar.gz
+
+
+
+
+echo "export CATALINA_HOME="/usr/local/apache-tomcat10"" >> ~/.bashrc
+echo "export JAVA_HOME="/usr/lib/jvm/java-14-openjdk-amd64"" >> ~/.bashrc
+echo "export JRE_HOME="/usr/lib/jvm/java-14-openjdk-amd64"" >> ~/.bashrc
+source ~/.bashrc
+
+more: 
+
+https://www.youtube.com/watch?v=QvksjC3w-WM&ab_channel=programadornovato
+https://www.programadornovato.com/instalar-apache-tomcat-9-en-ubuntu-18-04-y-16-04-lts/
+
+iniciar tomcat: cd /usr/local/apache-tomcat10
+./bin/startup.sh
+
+terminar tomcat: cd /usr/local/apache-tomcat10
+./bin/shutdown.sh 

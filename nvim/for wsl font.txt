@@ -1,0 +1,5 @@
+Hack Nerd Font Regular
+
+and more coc
+
+https://hardfloat.es/2020/12/08/instalaci%C3%B3n-neovim-coc-y-vim-plug.html

@@ -1,0 +1,39 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "json",
+        "markdown",
+        "html",
+        "python",
+        "xml",
+        "java",
+        "css",
+	"javascript",
+	"typescript", 
+	"typescriptreact", 
+	"json", 
+	"javascriptreact", 
+	"typescript.tsx"
+    ],
+     "eslint.filetypes": ["javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+     "coc.preferences.diagnostic.virtualText": true,
+    // python config
+    "python.jediEnabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.autoComplete.extraPaths": [
+        "libqtile"
+    ],
+    //json
+    "json.format.enable": true,
+    // xml config
+    "xml.format.enabled": true,
+    "xml.format.joinContentLines": true,
+    "xml.format.splitAttributes": true,
+    // explorer
+    "explorer.width": 30,
+    "explorer.icon.enableNerdfont": true,
+    "explorer.previewAction.onHover": false
+    
+}
+
+
+

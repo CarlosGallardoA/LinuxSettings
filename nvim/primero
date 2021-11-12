@@ -1,0 +1,9 @@
+instalar pip yarn
+instalar plug
+instalar kite
+https://github.com/kiteco/vim-plugin/blob/master/DEVELOPMENT.md
+PlugIntall
+cocInstaller coc-json coc-tsserver coc-phpls coc-flutter coc-java coc-prettier
+
+si hay error en java : https://github.com/neoclide/coc-java/issues/99
+Instalar la fuente hack
